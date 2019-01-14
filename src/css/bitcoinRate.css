@@ -1,0 +1,13 @@
+.container {
+  background-color: rgb(252, 241, 241);
+  margin: 15px 0 0 0;
+}
+.buttons {
+  text-align: center;
+}
+
+h2,
+.container h4,
+p {
+  text-align: center;
+}
